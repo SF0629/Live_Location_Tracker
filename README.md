@@ -1,6 +1,4 @@
 # Live_Location_Tracker
-TeamLog 12th Subject
-
 
 vscode Live Server로 실행하시기 바랍니다.
 
