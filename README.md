@@ -1,5 +1,5 @@
 # Live_Location_Tracker
-10306 김정원
+GPS와 IP를 이용해 현재 위치를 확인할 수 있는 사이트입니다.
 
 vscode Live Server로 실행하시기 바랍니다.
 
